@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">205183835723-oga8co8hhamrr64sbfbklr8b3cj9294m.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">205183835723</string>
+    <string name="google_api_key" translatable="false">AIzaSyAjAz-WB5f4mlnSETg4kC_dnOsFiQSAPLw</string>
+    <string name="google_app_id" translatable="false">1:205183835723:android:f5c61b9d358e1fdca9b7ce</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAjAz-WB5f4mlnSETg4kC_dnOsFiQSAPLw</string>
+    <string name="google_storage_bucket" translatable="false">patient-care-e784a.appspot.com</string>
+    <string name="project_id" translatable="false">patient-care-e784a</string>
+</resources>

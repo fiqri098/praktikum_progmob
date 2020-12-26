@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205183835723",
+    "project_id": "patient-care-e784a",
+    "storage_bucket": "patient-care-e784a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205183835723:android:f5c61b9d358e1fdca9b7ce",
+        "android_client_info": {
+          "package_name": "com.abdipurnawan.praktikum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205183835723-oga8co8hhamrr64sbfbklr8b3cj9294m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjAz-WB5f4mlnSETg4kC_dnOsFiQSAPLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205183835723-oga8co8hhamrr64sbfbklr8b3cj9294m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

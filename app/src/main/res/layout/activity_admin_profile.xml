@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:background="@color/whiteCardColor"
+    tools:context=".Admin.AdminProfileActivity">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/app_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fitsSystemWindows="true"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <com.google.android.material.appbar.CollapsingToolbarLayout
+            android:id="@+id/toolbar_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fitsSystemWindows="true"
+            app:contentScrim="@color/profilePrimaryDark"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed"
+            app:toolbarId="@+id/toolbar"
+            app:expandedTitleMarginEnd="64dp"
+            app:expandedTitleMarginStart="48dp"
+            app:expandedTitleTextAppearance="@style/TransparentText">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:gravity="center_horizontal"
+                android:orientation="vertical"
+                android:id="@+id/linearLayout"
+                android:background="@drawable/profile_bk">
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="121dp"
+                    android:layout_height="121dp"
+                    android:layout_gravity="center_horizontal"
+                    android:src="@drawable/profilephoto"
+                    android:id="@+id/userPhoto"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginTop="20dp">
+                </de.hdodenhof.circleimageview.CircleImageView>
+
+
+                <TextView
+                    android:id="@+id/txtMainNameProfile"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="\I Putu User"
+                    android:textSize="28sp"
+                    android:layout_marginTop="8dp"
+                    android:textStyle="bold"/>
+
+                <TextView
+                    android:id="@+id/txtMainEmailProfile"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="putuuser@gmail.com"
+                    android:textSize="12sp"
+                    android:textStyle="bold"
+                    android:layout_marginBottom="8dp"/>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_gravity="bottom"
+                    android:layout_marginTop="10dp"
+                    android:background="@color/profileBackground">
+
+                    <View
+                        android:layout_alignParentTop="true"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:background="@drawable/profile_bk"/>
+                    <LinearLayout
+                        android:layout_marginLeft="20dp"
+                        android:layout_width="150dp"
+                        android:layout_height="60dp">
+
+                        <androidx.appcompat.widget.AppCompatButton
+                            android:id="@+id/buttonEditProfile"
+                            android:text="Edit Profile"
+                            style="@style/profileStyledBackButton2" />
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_marginLeft="200dp"
+                        android:layout_marginRight="20dp"
+                        android:layout_width="170dp"
+                        android:layout_height="60dp">
+
+                        <androidx.appcompat.widget.AppCompatButton
+                            android:id="@+id/buttonEditPass"
+                            android:text="Edit Password"
+                            style="@style/profileStyledBackButton2" />
+                    </LinearLayout>
+                </RelativeLayout>
+
+
+            </LinearLayout>
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="43dp"
+                app:layout_collapseMode="pin"
+                app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+        </com.google.android.material.appbar.CollapsingToolbarLayout>
+    </com.google.android.material.appbar.AppBarLayout>
+    <androidx.cardview.widget.CardView
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:layout_marginTop="300dp"
+        android:background="@color/whiteBodyColortrans">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp">
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    style="@style/headerText1"
+                    android:text="@string/profinfo"
+                    android:layout_marginBottom="20dp"/>
+
+                <RelativeLayout style="@style/profileDetailsLayout">
+                    <androidx.appcompat.widget.AppCompatImageView
+                        android:id="@+id/nameImageView"
+                        android:src="@drawable/ic_name"
+                        style="@style/profileDetailsImage" />
+
+                    <TextView
+                        android:id="@+id/txtNameProfileLayout"
+                        android:text="Name"
+                        android:layout_toRightOf="@id/nameImageView"
+                        style="@style/profileDetailsTextMain" />
+
+                    <TextView
+                        android:id="@+id/txtNameProfile"
+                        android:text="I Putu User"
+                        android:layout_toRightOf="@id/nameImageView"
+                        style="@style/profileDetailsMiniText" />
+
+                </RelativeLayout>
+
+                <View style="@style/proifleDetailsView" />
+                <RelativeLayout style="@style/profileDetailsLayout">
+                    <ImageView
+                        android:id="@+id/emailImageView"
+                        android:src="@drawable/ic_email"
+                        style="@style/profileDetailsImage" />
+
+                    <TextView
+                        android:id="@+id/txtEmailProfileLayout"
+                        android:text="Email"
+                        android:layout_toRightOf="@id/emailImageView"
+                        style="@style/profileDetailsTextMain" />
+
+                    <TextView
+                        android:id="@+id/txtEmailProfile"
+                        android:text="user@gmail.com"
+                        android:layout_toRightOf="@id/emailImageView"
+                        style="@style/profileDetailsMiniText" />
+
+                </RelativeLayout>
+
+
+                <View style="@style/proifleDetailsView" />
+                <RelativeLayout style="@style/profileDetailsLayout">
+                    <ImageView
+                        android:id="@+id/mobileImageView"
+                        android:src="@drawable/ic_mobile"
+                        style="@style/profileDetailsImage" />
+
+                    <TextView
+                        android:id="@+id/txtMobileProfileLayout"
+                        android:text="Mobile"
+                        android:layout_toRightOf="@id/mobileImageView"
+                        style="@style/profileDetailsTextMain"/>
+
+                    <TextView
+                        android:id="@+id/txtMobileProfile"
+                        android:text="+626969696969"
+                        android:layout_toRightOf="@id/mobileImageView"
+                        style="@style/profileDetailsMiniText" />
+                </RelativeLayout>
+
+                <RelativeLayout style="@style/profileDetailsLayout">
+                    <androidx.appcompat.widget.AppCompatImageView
+                        android:id="@+id/genderImageView"
+                        android:src="@drawable/ic_name"
+                        style="@style/profileDetailsImage" />
+
+                    <TextView
+                        android:id="@+id/txtGenderProfileLayout"
+                        android:text="Gender"
+                        android:layout_toRightOf="@id/genderImageView"
+                        style="@style/profileDetailsTextMain" />
+
+                    <TextView
+                        android:id="@+id/txtGenderProfile"
+                        android:text="Male"
+                        android:layout_toRightOf="@id/genderImageView"
+                        style="@style/profileDetailsMiniText" />
+
+                </RelativeLayout>
+
+                <View style="@style/proifleDetailsView" />
+                <RelativeLayout style="@style/profileDetailsLayout">
+                    <ImageView
+                        android:id="@+id/addressImageView"
+                        android:src="@drawable/ic_address"
+                        style="@style/profileDetailsImage" />
+
+                    <TextView
+                        android:id="@+id/txtAddressProfileLayout"
+                        android:text="Address"
+                        android:layout_toRightOf="@id/addressImageView"
+                        style="@style/profileDetailsTextMain" />
+
+                    <TextView
+                        android:id="@+id/txtAddressProfile"
+                        android:text="Bangli Nan Jauh di Mata"
+                        android:layout_toRightOf="@id/addressImageView"
+                        style="@style/profileDetailsMiniText" />
+
+                </RelativeLayout>
+
+                <View style="@style/proifleDetailsView" />
+                <RelativeLayout style="@style/profileDetailsLayout">
+                    <ImageView
+                        android:id="@+id/dobImageView"
+                        android:src="@drawable/ic_dob"
+                        style="@style/profileDetailsImage" />
+
+                    <TextView
+                        android:id="@+id/txtBirthdateProfileLayout"
+                        android:text="Birthday"
+                        android:layout_toRightOf="@id/dobImageView"
+                        style="@style/profileDetailsTextMain" />
+
+                    <TextView
+                        android:id="@+id/txtBirthdateProfile"
+                        android:text="29-02-1873"
+                        android:layout_toRightOf="@id/dobImageView"
+                        style="@style/profileDetailsMiniText" />
+                </RelativeLayout>
+                <RelativeLayout style="@style/profileDetailsLayout">
+                    <androidx.appcompat.widget.AppCompatButton
+                        android:id="@+id/buttonLogout"
+                        android:text="Logout"
+                        style="@style/profileStyledBackButton" />
+                </RelativeLayout>
+                <RelativeLayout style="@style/profileDetailsLayout">
+                </RelativeLayout>
+                <RelativeLayout style="@style/profileDetailsLayout">
+                </RelativeLayout>
+                <RelativeLayout style="@style/profileDetailsLayout">
+                </RelativeLayout>
+                <RelativeLayout style="@style/profileDetailsLayout">
+                </RelativeLayout>
+                <RelativeLayout style="@style/profileDetailsLayout">
+                </RelativeLayout>
+
+            </LinearLayout>
+        </ScrollView>
+    </androidx.cardview.widget.CardView>
+
+
+    <!--    <include layout="@layout/content_profile" />-->
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottom_navigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/botnav"
+        app:menu="@menu/bottom_navigation" />
+
+</RelativeLayout>

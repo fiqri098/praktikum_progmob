@@ -37,6 +37,7 @@ public class AdminListUserActivity extends AppCompatActivity {
     }
 
     private void getUser(){
+        userList.clear();
         StringRequest request = new StringRequest(Request.Method.POST, Constant.GET_ALL_USER, response -> {
             try {
                 JSONObject object1 = new JSONObject(response);

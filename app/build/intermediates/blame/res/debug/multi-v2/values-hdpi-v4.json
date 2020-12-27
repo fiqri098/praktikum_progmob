@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\bek ap prak probmob\\activity\\jadi\\praktikum_progmob-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "outputFile": "C:\\Users\\abdip\\AndroidStudioProjects\\praktikum_progmob\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Dazumba\\.gradle\\caches\\transforms-2\\files-2.1\\4eac1494b15210bd3877985e172e9875\\appcompat-1.2.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "source": "C:\\Users\\abdip\\.gradle\\caches\\transforms-2\\files-2.1\\4eac1494b15210bd3877985e172e9875\\appcompat-1.2.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\bek ap prak probmob\\activity\\jadi\\praktikum_progmob-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "C:\\Users\\abdip\\AndroidStudioProjects\\praktikum_progmob\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Dazumba\\.gradle\\caches\\transforms-2\\files-2.1\\4eac1494b15210bd3877985e172e9875\\appcompat-1.2.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\abdip\\.gradle\\caches\\transforms-2\\files-2.1\\4eac1494b15210bd3877985e172e9875\\appcompat-1.2.0\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

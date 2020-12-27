@@ -6,326 +6,325 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml
+8-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml
+9-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:55:5-67
-11-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:55:22-64
+11-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:55:5-67
+11-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:55:22-64
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-12-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:24:5-79
-12-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:24:22-76
+12-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:24:5-79
+12-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:24:22-76
 13    <uses-permission android:name="android.permission.WAKE_LOCK" />
-13-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:25:5-68
-13-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:25:22-65
+13-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:25:5-68
+13-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:25:22-65
 14    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
-14-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:26:5-110
-14-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:26:22-107
+14-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:26:5-110
+14-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:26:22-107
 15    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
-15-->[com.google.firebase:firebase-iid:21.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\3c7fb429b5fe7197cdeea11f1468635a\firebase-iid-21.0.0\AndroidManifest.xml:26:5-82
-15-->[com.google.firebase:firebase-iid:21.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\3c7fb429b5fe7197cdeea11f1468635a\firebase-iid-21.0.0\AndroidManifest.xml:26:22-79
+15-->[com.google.firebase:firebase-iid:21.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\3c7fb429b5fe7197cdeea11f1468635a\firebase-iid-21.0.0\AndroidManifest.xml:26:5-82
+15-->[com.google.firebase:firebase-iid:21.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\3c7fb429b5fe7197cdeea11f1468635a\firebase-iid-21.0.0\AndroidManifest.xml:26:22-79
 16
 17    <application
-17-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:5:5-53:19
+17-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:5:5-53:19
 18        android:allowBackup="true"
-18-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:6:9-35
+18-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:6:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-19-->[androidx.core:core:1.3.1] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\b03b71205b3c1af54c92f54df0a6943b\core-1.3.1\AndroidManifest.xml:24:18-86
+19-->[androidx.core:core:1.3.1] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\b03b71205b3c1af54c92f54df0a6943b\core-1.3.1\AndroidManifest.xml:24:18-86
 20        android:debuggable="true"
 21        android:icon="@mipmap/ic_launcher"
-21-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:7:9-43
+21-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:7:9-43
 22        android:label="@string/app_name"
-22-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:8:9-41
+22-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:8:9-41
 23        android:roundIcon="@mipmap/ic_launcher_round"
-23-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:9:9-54
+23-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:9:9-54
 24        android:supportsRtl="true"
-24-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:10:9-35
-25        android:testOnly="true"
-26        android:theme="@style/AppTheme"
-26-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:11:9-40
-27        android:usesCleartextTraffic="true" >
-27-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:12:9-44
-28        <activity android:name="com.example.praktikum.Admin.AdminListAdminActivity" />
-28-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:13:9-66
-28-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:13:19-63
-29        <activity android:name="com.example.praktikum.Admin.AdminDetailListusrActivity" />
-29-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:14:9-70
-29-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:14:19-67
-30        <activity android:name="com.example.praktikum.Admin.AdminListUserActivity" />
-30-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:15:9-65
-30-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:15:19-62
-31        <activity
-31-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:16:9-94
-32            android:name="com.example.praktikum.Admin.AdminDetailRegsmskActivity"
-32-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:16:19-67
-33            android:noHistory="true" />
-33-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:16:68-92
-34        <activity
-34-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:17:9-89
-35            android:name="com.example.praktikum.Admin.AdminRegismskActivity"
-35-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:17:19-62
-36            android:noHistory="true" />
-36-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:17:63-87
-37        <activity android:name="com.example.praktikum.Admin.AdminHomeActivity" />
-37-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:18:9-61
-37-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:18:19-58
-38        <activity android:name="com.example.praktikum.Admin.AdminDetailRwtActivity" />
-38-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:19:9-66
-38-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:19:19-63
-39        <activity android:name="com.example.praktikum.Admin.AdminRiwayatActivity" />
-39-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:20:9-64
-39-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:20:19-61
-40        <activity android:name="com.example.praktikum.Admin.AdminProfileActivity" />
-40-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:21:9-64
-40-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:21:19-61
-41        <activity android:name="com.example.praktikum.Admin.AdminDetailListadmActivity" />
-41-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:22:9-70
-41-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:22:19-67
-42        <activity android:name="com.example.praktikum.Pasien.DetailRiwayatDiresponActivity" />
-42-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:25:9-83
-42-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:25:19-71
-43        <activity
-43-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:26:9-92
-44            android:name="com.example.praktikum.Pasien.RiwayatDiresponActivity"
-44-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:26:19-65
-45            android:noHistory="true" />
-45-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:26:66-90
-46        <activity android:name="com.example.praktikum.Pasien.EditRegistrasiaActivity" />
-46-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:27:9-68
-46-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:27:19-65
-47        <activity android:name="com.example.praktikum.Pasien.DetailRiwayatrgsActivity" />
-47-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:28:9-69
-47-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:28:19-66
-48        <activity
-48-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:29:9-91
-49            android:name="com.example.praktikum.Pasien.RiwayatPendingActivity"
-49-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:29:19-64
-50            android:noHistory="true" />
-50-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:29:65-89
-51        <activity android:name="com.example.praktikum.Pasien.RegistsakitActivity" />
-51-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:30:9-64
-51-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:30:19-61
-52        <activity android:name="com.example.praktikum.Pasien.EditpassActivity" />
-52-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:31:9-61
-52-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:31:19-58
-53        <activity android:name="com.example.praktikum.Pasien.EditprofileActivity" />
-53-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:32:9-64
-53-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:32:19-61
-54        <activity android:name="com.example.praktikum.Any.AuthActivity" />
-54-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:33:9-54
-54-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:33:19-51
-55        <activity android:name="com.example.praktikum.Pasien.RegisterActivity" />
-55-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:34:9-61
-55-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:34:19-58
-56        <activity android:name="com.example.praktikum.LoginActivity" />
-56-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:35:9-51
-56-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:35:19-48
-57        <activity
-57-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:36:9-38:61
-58            android:name="com.example.praktikum.ProfileActivity"
-58-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:37:13-44
-59            android:label="@string/title_activity_profile" />
-59-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:38:13-59
-60        <activity android:name="com.example.praktikum.Pasien.RiwayatActivity" />
-60-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:39:9-60
-60-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:39:19-57
-61        <activity android:name="com.example.praktikum.MainActivity" >
-61-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:40:9-46:20
-61-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:40:19-47
-62            <intent-filter>
-62-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:41:13-45:29
-63                <action android:name="android.intent.action.MAIN" />
-63-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:42:17-69
-63-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:42:25-66
-64
-65                <category android:name="android.intent.category.LAUNCHER" />
-65-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:44:17-77
-65-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:44:27-74
-66            </intent-filter>
-67        </activity>
-68
-69        <service android:name="com.example.praktikum.Any.FirebaseMessageReceiver" >
-69-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:48:9-52:19
-69-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:48:18-61
-70            <intent-filter>
-70-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:49:13-51:29
-71                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-71-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:50:17-77
-71-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:50:25-75
-72            </intent-filter>
-73        </service>
-74
-75        <provider
-75-->[com.squareup.picasso:picasso:2.8] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\ff608b46232841e0c064fe8ee444c2e7\jetified-picasso-2.8\AndroidManifest.xml:8:9-11:40
-76            android:name="com.squareup.picasso.PicassoProvider"
-76-->[com.squareup.picasso:picasso:2.8] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\ff608b46232841e0c064fe8ee444c2e7\jetified-picasso-2.8\AndroidManifest.xml:9:13-64
-77            android:authorities="com.abdipurnawan.praktikum.com.squareup.picasso"
-77-->[com.squareup.picasso:picasso:2.8] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\ff608b46232841e0c064fe8ee444c2e7\jetified-picasso-2.8\AndroidManifest.xml:10:13-72
-78            android:exported="false" />
-78-->[com.squareup.picasso:picasso:2.8] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\ff608b46232841e0c064fe8ee444c2e7\jetified-picasso-2.8\AndroidManifest.xml:11:13-37
-79        <!--
-80             FirebaseMessagingService performs security checks at runtime,
-81             but set to not exported to explicitly avoid allowing another app to call it.
-82        -->
-83        <service
-83-->[com.google.firebase:firebase-messaging:21.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\0d0c21618671dc174c755182cd74e48a\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:28:9-35:19
-84            android:name="com.google.firebase.messaging.FirebaseMessagingService"
-84-->[com.google.firebase:firebase-messaging:21.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\0d0c21618671dc174c755182cd74e48a\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:29:13-82
-85            android:directBootAware="true"
-85-->[com.google.firebase:firebase-messaging:21.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\0d0c21618671dc174c755182cd74e48a\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:30:13-43
-86            android:exported="false" >
-86-->[com.google.firebase:firebase-messaging:21.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\0d0c21618671dc174c755182cd74e48a\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:31:13-37
-87            <intent-filter android:priority="-500" >
-87-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:49:13-51:29
-88                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-88-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:50:17-77
-88-->D:\bek ap prak probmob\activity\jadi\praktikum_progmob-master\app\src\main\AndroidManifest.xml:50:25-75
-89            </intent-filter>
-90        </service>
-91        <service
-91-->[com.google.firebase:firebase-messaging:21.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\0d0c21618671dc174c755182cd74e48a\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:36:9-42:19
-92            android:name="com.google.firebase.components.ComponentDiscoveryService"
-92-->[com.google.firebase:firebase-messaging:21.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\0d0c21618671dc174c755182cd74e48a\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:37:13-84
-93            android:directBootAware="true"
-93-->[com.google.firebase:firebase-common:19.4.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\4018c737411188e240160bd84920c91f\jetified-firebase-common-19.4.0\AndroidManifest.xml:35:13-43
-94            android:exported="false" >
-94-->[com.google.firebase:firebase-messaging:21.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\0d0c21618671dc174c755182cd74e48a\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:38:13-37
-95            <meta-data
-95-->[com.google.firebase:firebase-messaging:21.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\0d0c21618671dc174c755182cd74e48a\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:39:13-41:85
-96                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
-96-->[com.google.firebase:firebase-messaging:21.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\0d0c21618671dc174c755182cd74e48a\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:40:17-119
-97                android:value="com.google.firebase.components.ComponentRegistrar" />
-97-->[com.google.firebase:firebase-messaging:21.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\0d0c21618671dc174c755182cd74e48a\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:41:17-82
-98            <meta-data
-98-->[com.google.android.gms:play-services-measurement-api:18.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\a1f1621cedd006a07c585677addc75fb\play-services-measurement-api-18.0.0\AndroidManifest.xml:30:13-32:85
-99                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
-99-->[com.google.android.gms:play-services-measurement-api:18.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\a1f1621cedd006a07c585677addc75fb\play-services-measurement-api-18.0.0\AndroidManifest.xml:31:17-139
-100                android:value="com.google.firebase.components.ComponentRegistrar" />
-100-->[com.google.android.gms:play-services-measurement-api:18.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\a1f1621cedd006a07c585677addc75fb\play-services-measurement-api-18.0.0\AndroidManifest.xml:32:17-82
-101            <meta-data
-101-->[com.google.firebase:firebase-iid:21.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\3c7fb429b5fe7197cdeea11f1468635a\firebase-iid-21.0.0\AndroidManifest.xml:32:13-34:85
-102                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
-102-->[com.google.firebase:firebase-iid:21.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\3c7fb429b5fe7197cdeea11f1468635a\firebase-iid-21.0.0\AndroidManifest.xml:33:17-96
-103                android:value="com.google.firebase.components.ComponentRegistrar" />
-103-->[com.google.firebase:firebase-iid:21.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\3c7fb429b5fe7197cdeea11f1468635a\firebase-iid-21.0.0\AndroidManifest.xml:34:17-82
-104            <meta-data
-104-->[com.google.firebase:firebase-installations:16.3.4] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\2a62a1156263fdd60821caab16d70766\firebase-installations-16.3.4\AndroidManifest.xml:18:13-20:85
-105                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
-105-->[com.google.firebase:firebase-installations:16.3.4] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\2a62a1156263fdd60821caab16d70766\firebase-installations-16.3.4\AndroidManifest.xml:19:17-127
-106                android:value="com.google.firebase.components.ComponentRegistrar" />
-106-->[com.google.firebase:firebase-installations:16.3.4] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\2a62a1156263fdd60821caab16d70766\firebase-installations-16.3.4\AndroidManifest.xml:20:17-82
-107            <meta-data
-107-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\933d624d0d07115759e4eaa33d8f5aad\firebase-datatransport-17.0.3\AndroidManifest.xml:28:13-30:85
-108                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
-108-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\933d624d0d07115759e4eaa33d8f5aad\firebase-datatransport-17.0.3\AndroidManifest.xml:29:17-115
-109                android:value="com.google.firebase.components.ComponentRegistrar" />
-109-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\933d624d0d07115759e4eaa33d8f5aad\firebase-datatransport-17.0.3\AndroidManifest.xml:30:17-82
-110        </service>
-111
-112        <receiver
-112-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:29:9-33:20
-113            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-113-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:30:13-85
-114            android:enabled="true"
-114-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:31:13-35
-115            android:exported="false" >
-115-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:32:13-37
-116        </receiver>
-117
-118        <service
-118-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:35:9-38:40
-119            android:name="com.google.android.gms.measurement.AppMeasurementService"
-119-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:36:13-84
-120            android:enabled="true"
-120-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:37:13-35
-121            android:exported="false" />
-121-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:38:13-37
-122        <service
-122-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:39:9-43:72
-123            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
-123-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:40:13-87
-124            android:enabled="true"
-124-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:41:13-35
-125            android:exported="false"
-125-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:42:13-37
-126            android:permission="android.permission.BIND_JOB_SERVICE" />
-126-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:43:13-69
-127
-128        <receiver
-128-->[com.google.firebase:firebase-iid:21.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\3c7fb429b5fe7197cdeea11f1468635a\firebase-iid-21.0.0\AndroidManifest.xml:37:9-44:20
-129            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
-129-->[com.google.firebase:firebase-iid:21.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\3c7fb429b5fe7197cdeea11f1468635a\firebase-iid-21.0.0\AndroidManifest.xml:38:13-78
-130            android:exported="true"
-130-->[com.google.firebase:firebase-iid:21.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\3c7fb429b5fe7197cdeea11f1468635a\firebase-iid-21.0.0\AndroidManifest.xml:39:13-36
-131            android:permission="com.google.android.c2dm.permission.SEND" >
-131-->[com.google.firebase:firebase-iid:21.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\3c7fb429b5fe7197cdeea11f1468635a\firebase-iid-21.0.0\AndroidManifest.xml:40:13-73
-132            <intent-filter>
-132-->[com.google.firebase:firebase-iid:21.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\3c7fb429b5fe7197cdeea11f1468635a\firebase-iid-21.0.0\AndroidManifest.xml:41:13-43:29
-133                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-133-->[com.google.firebase:firebase-iid:21.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\3c7fb429b5fe7197cdeea11f1468635a\firebase-iid-21.0.0\AndroidManifest.xml:42:17-81
-133-->[com.google.firebase:firebase-iid:21.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\3c7fb429b5fe7197cdeea11f1468635a\firebase-iid-21.0.0\AndroidManifest.xml:42:25-78
-134            </intent-filter>
-135        </receiver>
-136
-137        <provider
-137-->[com.google.firebase:firebase-common:19.4.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\4018c737411188e240160bd84920c91f\jetified-firebase-common-19.4.0\AndroidManifest.xml:26:9-31:39
-138            android:name="com.google.firebase.provider.FirebaseInitProvider"
-138-->[com.google.firebase:firebase-common:19.4.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\4018c737411188e240160bd84920c91f\jetified-firebase-common-19.4.0\AndroidManifest.xml:27:13-77
-139            android:authorities="com.abdipurnawan.praktikum.firebaseinitprovider"
-139-->[com.google.firebase:firebase-common:19.4.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\4018c737411188e240160bd84920c91f\jetified-firebase-common-19.4.0\AndroidManifest.xml:28:13-72
-140            android:directBootAware="true"
-140-->[com.google.firebase:firebase-common:19.4.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\4018c737411188e240160bd84920c91f\jetified-firebase-common-19.4.0\AndroidManifest.xml:29:13-43
-141            android:exported="false"
-141-->[com.google.firebase:firebase-common:19.4.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\4018c737411188e240160bd84920c91f\jetified-firebase-common-19.4.0\AndroidManifest.xml:30:13-37
-142            android:initOrder="100" />
-142-->[com.google.firebase:firebase-common:19.4.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\4018c737411188e240160bd84920c91f\jetified-firebase-common-19.4.0\AndroidManifest.xml:31:13-36
-143
-144        <activity
-144-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\2aaf396091ad135ced1a7ef35bf0e861\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
-145            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-145-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\2aaf396091ad135ced1a7ef35bf0e861\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
-146            android:exported="false"
-146-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\2aaf396091ad135ced1a7ef35bf0e861\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
-147            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-147-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\2aaf396091ad135ced1a7ef35bf0e861\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
-148
-149        <meta-data
-149-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\ef2e7277fe0af387f69850c27290b936\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
-150            android:name="com.google.android.gms.version"
-150-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\ef2e7277fe0af387f69850c27290b936\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
-151            android:value="@integer/google_play_services_version" />
-151-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\ef2e7277fe0af387f69850c27290b936\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
-152
-153        <service
-153-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\277738ad9a42494cfa19d425a39bd243\transport-backend-cct-2.2.0\AndroidManifest.xml:29:9-35:19
-154            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
-154-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\277738ad9a42494cfa19d425a39bd243\transport-backend-cct-2.2.0\AndroidManifest.xml:30:13-103
-155            android:exported="false" >
-155-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\277738ad9a42494cfa19d425a39bd243\transport-backend-cct-2.2.0\AndroidManifest.xml:31:13-37
-156            <meta-data
-156-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\277738ad9a42494cfa19d425a39bd243\transport-backend-cct-2.2.0\AndroidManifest.xml:32:13-34:39
-157                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
-157-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\277738ad9a42494cfa19d425a39bd243\transport-backend-cct-2.2.0\AndroidManifest.xml:33:17-94
-158                android:value="cct" />
-158-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\277738ad9a42494cfa19d425a39bd243\transport-backend-cct-2.2.0\AndroidManifest.xml:34:17-36
-159        </service>
-160        <service
-160-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\2ce528c377e6c1bd123ad52f4a6d0448\transport-runtime-2.2.0\AndroidManifest.xml:26:9-30:19
-161            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
-161-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\2ce528c377e6c1bd123ad52f4a6d0448\transport-runtime-2.2.0\AndroidManifest.xml:27:13-117
-162            android:exported="false"
-162-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\2ce528c377e6c1bd123ad52f4a6d0448\transport-runtime-2.2.0\AndroidManifest.xml:28:13-37
-163            android:permission="android.permission.BIND_JOB_SERVICE" >
-163-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\2ce528c377e6c1bd123ad52f4a6d0448\transport-runtime-2.2.0\AndroidManifest.xml:29:13-69
-164        </service>
-165
-166        <receiver
-166-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\2ce528c377e6c1bd123ad52f4a6d0448\transport-runtime-2.2.0\AndroidManifest.xml:32:9-34:40
-167            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
-167-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\2ce528c377e6c1bd123ad52f4a6d0448\transport-runtime-2.2.0\AndroidManifest.xml:33:13-132
-168            android:exported="false" />
-168-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Dazumba\.gradle\caches\transforms-2\files-2.1\2ce528c377e6c1bd123ad52f4a6d0448\transport-runtime-2.2.0\AndroidManifest.xml:34:13-37
-169    </application>
-170
-171</manifest>
+24-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:10:9-35
+25        android:theme="@style/AppTheme"
+25-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:11:9-40
+26        android:usesCleartextTraffic="true" >
+26-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:12:9-44
+27        <activity android:name="com.example.praktikum.Admin.AdminListAdminActivity" />
+27-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:13:9-66
+27-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:13:19-63
+28        <activity android:name="com.example.praktikum.Admin.AdminDetailListusrActivity" />
+28-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:14:9-70
+28-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:14:19-67
+29        <activity android:name="com.example.praktikum.Admin.AdminListUserActivity" />
+29-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:15:9-65
+29-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:15:19-62
+30        <activity
+30-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:16:9-94
+31            android:name="com.example.praktikum.Admin.AdminDetailRegsmskActivity"
+31-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:16:19-67
+32            android:noHistory="true" />
+32-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:16:68-92
+33        <activity
+33-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:17:9-89
+34            android:name="com.example.praktikum.Admin.AdminRegismskActivity"
+34-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:17:19-62
+35            android:noHistory="true" />
+35-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:17:63-87
+36        <activity android:name="com.example.praktikum.Admin.AdminHomeActivity" />
+36-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:18:9-61
+36-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:18:19-58
+37        <activity android:name="com.example.praktikum.Admin.AdminDetailRwtActivity" />
+37-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:19:9-66
+37-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:19:19-63
+38        <activity android:name="com.example.praktikum.Admin.AdminRiwayatActivity" />
+38-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:20:9-64
+38-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:20:19-61
+39        <activity android:name="com.example.praktikum.Admin.AdminProfileActivity" />
+39-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:21:9-64
+39-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:21:19-61
+40        <activity android:name="com.example.praktikum.Admin.AdminDetailListadmActivity" />
+40-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:22:9-70
+40-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:22:19-67
+41        <activity android:name="com.example.praktikum.Pasien.DetailRiwayatDiresponActivity" />
+41-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:25:9-83
+41-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:25:19-71
+42        <activity
+42-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:26:9-92
+43            android:name="com.example.praktikum.Pasien.RiwayatDiresponActivity"
+43-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:26:19-65
+44            android:noHistory="true" />
+44-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:26:66-90
+45        <activity android:name="com.example.praktikum.Pasien.EditRegistrasiaActivity" />
+45-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:27:9-68
+45-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:27:19-65
+46        <activity android:name="com.example.praktikum.Pasien.DetailRiwayatrgsActivity" />
+46-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:28:9-69
+46-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:28:19-66
+47        <activity
+47-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:29:9-91
+48            android:name="com.example.praktikum.Pasien.RiwayatPendingActivity"
+48-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:29:19-64
+49            android:noHistory="true" />
+49-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:29:65-89
+50        <activity android:name="com.example.praktikum.Pasien.RegistsakitActivity" />
+50-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:30:9-64
+50-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:30:19-61
+51        <activity android:name="com.example.praktikum.Pasien.EditpassActivity" />
+51-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:31:9-61
+51-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:31:19-58
+52        <activity android:name="com.example.praktikum.Pasien.EditprofileActivity" />
+52-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:32:9-64
+52-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:32:19-61
+53        <activity android:name="com.example.praktikum.Any.AuthActivity" />
+53-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:33:9-54
+53-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:33:19-51
+54        <activity android:name="com.example.praktikum.Pasien.RegisterActivity" />
+54-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:34:9-61
+54-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:34:19-58
+55        <activity android:name="com.example.praktikum.LoginActivity" />
+55-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:35:9-51
+55-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:35:19-48
+56        <activity
+56-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:36:9-38:61
+57            android:name="com.example.praktikum.ProfileActivity"
+57-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:37:13-44
+58            android:label="@string/title_activity_profile" />
+58-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:38:13-59
+59        <activity android:name="com.example.praktikum.Pasien.RiwayatActivity" />
+59-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:39:9-60
+59-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:39:19-57
+60        <activity android:name="com.example.praktikum.MainActivity" >
+60-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:40:9-46:20
+60-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:40:19-47
+61            <intent-filter>
+61-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:41:13-45:29
+62                <action android:name="android.intent.action.MAIN" />
+62-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:42:17-69
+62-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:42:25-66
+63
+64                <category android:name="android.intent.category.LAUNCHER" />
+64-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:44:17-77
+64-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:44:27-74
+65            </intent-filter>
+66        </activity>
+67
+68        <service android:name="com.example.praktikum.Any.FirebaseMessageReceiver" >
+68-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:48:9-52:19
+68-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:48:18-61
+69            <intent-filter>
+69-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:49:13-51:29
+70                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+70-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:50:17-77
+70-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:50:25-75
+71            </intent-filter>
+72        </service>
+73
+74        <provider
+74-->[com.squareup.picasso:picasso:2.8] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\fe457f113edab176163e83c16258f3c1\jetified-picasso-2.8\AndroidManifest.xml:8:9-11:40
+75            android:name="com.squareup.picasso.PicassoProvider"
+75-->[com.squareup.picasso:picasso:2.8] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\fe457f113edab176163e83c16258f3c1\jetified-picasso-2.8\AndroidManifest.xml:9:13-64
+76            android:authorities="com.abdipurnawan.praktikum.com.squareup.picasso"
+76-->[com.squareup.picasso:picasso:2.8] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\fe457f113edab176163e83c16258f3c1\jetified-picasso-2.8\AndroidManifest.xml:10:13-72
+77            android:exported="false" />
+77-->[com.squareup.picasso:picasso:2.8] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\fe457f113edab176163e83c16258f3c1\jetified-picasso-2.8\AndroidManifest.xml:11:13-37
+78        <!--
+79             FirebaseMessagingService performs security checks at runtime,
+80             but set to not exported to explicitly avoid allowing another app to call it.
+81        -->
+82        <service
+82-->[com.google.firebase:firebase-messaging:21.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\5a4a7c4ce4e4e518cb47c35abedef137\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:28:9-35:19
+83            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+83-->[com.google.firebase:firebase-messaging:21.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\5a4a7c4ce4e4e518cb47c35abedef137\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:29:13-82
+84            android:directBootAware="true"
+84-->[com.google.firebase:firebase-messaging:21.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\5a4a7c4ce4e4e518cb47c35abedef137\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:30:13-43
+85            android:exported="false" >
+85-->[com.google.firebase:firebase-messaging:21.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\5a4a7c4ce4e4e518cb47c35abedef137\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:31:13-37
+86            <intent-filter android:priority="-500" >
+86-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:49:13-51:29
+87                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+87-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:50:17-77
+87-->C:\Users\abdip\AndroidStudioProjects\praktikum_progmob\app\src\main\AndroidManifest.xml:50:25-75
+88            </intent-filter>
+89        </service>
+90        <service
+90-->[com.google.firebase:firebase-messaging:21.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\5a4a7c4ce4e4e518cb47c35abedef137\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:36:9-42:19
+91            android:name="com.google.firebase.components.ComponentDiscoveryService"
+91-->[com.google.firebase:firebase-messaging:21.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\5a4a7c4ce4e4e518cb47c35abedef137\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:37:13-84
+92            android:directBootAware="true"
+92-->[com.google.firebase:firebase-common:19.4.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\863636ebf041d43b6d2f40db83192355\jetified-firebase-common-19.4.0\AndroidManifest.xml:35:13-43
+93            android:exported="false" >
+93-->[com.google.firebase:firebase-messaging:21.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\5a4a7c4ce4e4e518cb47c35abedef137\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:38:13-37
+94            <meta-data
+94-->[com.google.firebase:firebase-messaging:21.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\5a4a7c4ce4e4e518cb47c35abedef137\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:39:13-41:85
+95                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+95-->[com.google.firebase:firebase-messaging:21.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\5a4a7c4ce4e4e518cb47c35abedef137\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:40:17-119
+96                android:value="com.google.firebase.components.ComponentRegistrar" />
+96-->[com.google.firebase:firebase-messaging:21.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\5a4a7c4ce4e4e518cb47c35abedef137\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:41:17-82
+97            <meta-data
+97-->[com.google.android.gms:play-services-measurement-api:18.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\a1f1621cedd006a07c585677addc75fb\play-services-measurement-api-18.0.0\AndroidManifest.xml:30:13-32:85
+98                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+98-->[com.google.android.gms:play-services-measurement-api:18.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\a1f1621cedd006a07c585677addc75fb\play-services-measurement-api-18.0.0\AndroidManifest.xml:31:17-139
+99                android:value="com.google.firebase.components.ComponentRegistrar" />
+99-->[com.google.android.gms:play-services-measurement-api:18.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\a1f1621cedd006a07c585677addc75fb\play-services-measurement-api-18.0.0\AndroidManifest.xml:32:17-82
+100            <meta-data
+100-->[com.google.firebase:firebase-iid:21.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\3c7fb429b5fe7197cdeea11f1468635a\firebase-iid-21.0.0\AndroidManifest.xml:32:13-34:85
+101                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+101-->[com.google.firebase:firebase-iid:21.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\3c7fb429b5fe7197cdeea11f1468635a\firebase-iid-21.0.0\AndroidManifest.xml:33:17-96
+102                android:value="com.google.firebase.components.ComponentRegistrar" />
+102-->[com.google.firebase:firebase-iid:21.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\3c7fb429b5fe7197cdeea11f1468635a\firebase-iid-21.0.0\AndroidManifest.xml:34:17-82
+103            <meta-data
+103-->[com.google.firebase:firebase-installations:16.3.4] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\2a62a1156263fdd60821caab16d70766\firebase-installations-16.3.4\AndroidManifest.xml:18:13-20:85
+104                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+104-->[com.google.firebase:firebase-installations:16.3.4] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\2a62a1156263fdd60821caab16d70766\firebase-installations-16.3.4\AndroidManifest.xml:19:17-127
+105                android:value="com.google.firebase.components.ComponentRegistrar" />
+105-->[com.google.firebase:firebase-installations:16.3.4] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\2a62a1156263fdd60821caab16d70766\firebase-installations-16.3.4\AndroidManifest.xml:20:17-82
+106            <meta-data
+106-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\933d624d0d07115759e4eaa33d8f5aad\firebase-datatransport-17.0.3\AndroidManifest.xml:28:13-30:85
+107                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+107-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\933d624d0d07115759e4eaa33d8f5aad\firebase-datatransport-17.0.3\AndroidManifest.xml:29:17-115
+108                android:value="com.google.firebase.components.ComponentRegistrar" />
+108-->[com.google.firebase:firebase-datatransport:17.0.3] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\933d624d0d07115759e4eaa33d8f5aad\firebase-datatransport-17.0.3\AndroidManifest.xml:30:17-82
+109        </service>
+110
+111        <receiver
+111-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:29:9-33:20
+112            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+112-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:30:13-85
+113            android:enabled="true"
+113-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:31:13-35
+114            android:exported="false" >
+114-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:32:13-37
+115        </receiver>
+116
+117        <service
+117-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:35:9-38:40
+118            android:name="com.google.android.gms.measurement.AppMeasurementService"
+118-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:36:13-84
+119            android:enabled="true"
+119-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:37:13-35
+120            android:exported="false" />
+120-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:38:13-37
+121        <service
+121-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:39:9-43:72
+122            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+122-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:40:13-87
+123            android:enabled="true"
+123-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:41:13-35
+124            android:exported="false"
+124-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:42:13-37
+125            android:permission="android.permission.BIND_JOB_SERVICE" />
+125-->[com.google.android.gms:play-services-measurement:18.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\a3dae38653e20764536a6a4f8b4670d9\play-services-measurement-18.0.0\AndroidManifest.xml:43:13-69
+126
+127        <receiver
+127-->[com.google.firebase:firebase-iid:21.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\3c7fb429b5fe7197cdeea11f1468635a\firebase-iid-21.0.0\AndroidManifest.xml:37:9-44:20
+128            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+128-->[com.google.firebase:firebase-iid:21.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\3c7fb429b5fe7197cdeea11f1468635a\firebase-iid-21.0.0\AndroidManifest.xml:38:13-78
+129            android:exported="true"
+129-->[com.google.firebase:firebase-iid:21.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\3c7fb429b5fe7197cdeea11f1468635a\firebase-iid-21.0.0\AndroidManifest.xml:39:13-36
+130            android:permission="com.google.android.c2dm.permission.SEND" >
+130-->[com.google.firebase:firebase-iid:21.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\3c7fb429b5fe7197cdeea11f1468635a\firebase-iid-21.0.0\AndroidManifest.xml:40:13-73
+131            <intent-filter>
+131-->[com.google.firebase:firebase-iid:21.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\3c7fb429b5fe7197cdeea11f1468635a\firebase-iid-21.0.0\AndroidManifest.xml:41:13-43:29
+132                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+132-->[com.google.firebase:firebase-iid:21.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\3c7fb429b5fe7197cdeea11f1468635a\firebase-iid-21.0.0\AndroidManifest.xml:42:17-81
+132-->[com.google.firebase:firebase-iid:21.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\3c7fb429b5fe7197cdeea11f1468635a\firebase-iid-21.0.0\AndroidManifest.xml:42:25-78
+133            </intent-filter>
+134        </receiver>
+135
+136        <provider
+136-->[com.google.firebase:firebase-common:19.4.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\863636ebf041d43b6d2f40db83192355\jetified-firebase-common-19.4.0\AndroidManifest.xml:26:9-31:39
+137            android:name="com.google.firebase.provider.FirebaseInitProvider"
+137-->[com.google.firebase:firebase-common:19.4.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\863636ebf041d43b6d2f40db83192355\jetified-firebase-common-19.4.0\AndroidManifest.xml:27:13-77
+138            android:authorities="com.abdipurnawan.praktikum.firebaseinitprovider"
+138-->[com.google.firebase:firebase-common:19.4.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\863636ebf041d43b6d2f40db83192355\jetified-firebase-common-19.4.0\AndroidManifest.xml:28:13-72
+139            android:directBootAware="true"
+139-->[com.google.firebase:firebase-common:19.4.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\863636ebf041d43b6d2f40db83192355\jetified-firebase-common-19.4.0\AndroidManifest.xml:29:13-43
+140            android:exported="false"
+140-->[com.google.firebase:firebase-common:19.4.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\863636ebf041d43b6d2f40db83192355\jetified-firebase-common-19.4.0\AndroidManifest.xml:30:13-37
+141            android:initOrder="100" />
+141-->[com.google.firebase:firebase-common:19.4.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\863636ebf041d43b6d2f40db83192355\jetified-firebase-common-19.4.0\AndroidManifest.xml:31:13-36
+142
+143        <activity
+143-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\2aaf396091ad135ced1a7ef35bf0e861\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+144            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+144-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\2aaf396091ad135ced1a7ef35bf0e861\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+145            android:exported="false"
+145-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\2aaf396091ad135ced1a7ef35bf0e861\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+146            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+146-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\2aaf396091ad135ced1a7ef35bf0e861\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+147
+148        <meta-data
+148-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\49842685d5b80c72ae5c7da8489e9207\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+149            android:name="com.google.android.gms.version"
+149-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\49842685d5b80c72ae5c7da8489e9207\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+150            android:value="@integer/google_play_services_version" />
+150-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\49842685d5b80c72ae5c7da8489e9207\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+151
+152        <service
+152-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\277738ad9a42494cfa19d425a39bd243\transport-backend-cct-2.2.0\AndroidManifest.xml:29:9-35:19
+153            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+153-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\277738ad9a42494cfa19d425a39bd243\transport-backend-cct-2.2.0\AndroidManifest.xml:30:13-103
+154            android:exported="false" >
+154-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\277738ad9a42494cfa19d425a39bd243\transport-backend-cct-2.2.0\AndroidManifest.xml:31:13-37
+155            <meta-data
+155-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\277738ad9a42494cfa19d425a39bd243\transport-backend-cct-2.2.0\AndroidManifest.xml:32:13-34:39
+156                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+156-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\277738ad9a42494cfa19d425a39bd243\transport-backend-cct-2.2.0\AndroidManifest.xml:33:17-94
+157                android:value="cct" />
+157-->[com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\277738ad9a42494cfa19d425a39bd243\transport-backend-cct-2.2.0\AndroidManifest.xml:34:17-36
+158        </service>
+159        <service
+159-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\2ce528c377e6c1bd123ad52f4a6d0448\transport-runtime-2.2.0\AndroidManifest.xml:26:9-30:19
+160            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+160-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\2ce528c377e6c1bd123ad52f4a6d0448\transport-runtime-2.2.0\AndroidManifest.xml:27:13-117
+161            android:exported="false"
+161-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\2ce528c377e6c1bd123ad52f4a6d0448\transport-runtime-2.2.0\AndroidManifest.xml:28:13-37
+162            android:permission="android.permission.BIND_JOB_SERVICE" >
+162-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\2ce528c377e6c1bd123ad52f4a6d0448\transport-runtime-2.2.0\AndroidManifest.xml:29:13-69
+163        </service>
+164
+165        <receiver
+165-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\2ce528c377e6c1bd123ad52f4a6d0448\transport-runtime-2.2.0\AndroidManifest.xml:32:9-34:40
+166            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+166-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\2ce528c377e6c1bd123ad52f4a6d0448\transport-runtime-2.2.0\AndroidManifest.xml:33:13-132
+167            android:exported="false" />
+167-->[com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\abdip\.gradle\caches\transforms-2\files-2.1\2ce528c377e6c1bd123ad52f4a6d0448\transport-runtime-2.2.0\AndroidManifest.xml:34:13-37
+168    </application>
+169
+170</manifest>
